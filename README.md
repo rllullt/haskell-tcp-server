@@ -11,6 +11,10 @@ The recommended method to install the `cabal` executable is to use [ghcup](https
 
 ### 1. Clone this repository
 
+```bash
+git clone git@github.com:rllullt/haskell-tcp-server.git
+cd haskell-tcp-server/
+```
 
 ### 2. Install, build and run
 
